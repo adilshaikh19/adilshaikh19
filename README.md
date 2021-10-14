@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @adilshaikh19
-- 🌱 I’m currently learning Machine learning & Deep Learning
+- 🌱 ML | DL | Data Analytics
 - 📫 How to reach me adilsk0219@gmail.com
 
 <!---
