@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adil Shaikh</h1>
-<h3 align="center">Python | Data Science | Data Analysis</h3>
+<h3 align="center">Python Developer | Data Science | Data Analysis</h3>
 
 - 🌱 I’m currently learning **Computer Vision and Natural Language Processing**
 
