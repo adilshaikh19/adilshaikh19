@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **adilsk0219@gmail.com**
 
-- 📄 Know about my experiences [[https://github.com/adilshaikh19/Resume/blob/main/Adil-UG-Resume.pdf](https://github.com/adilshaikh19/Resume/blob/main/Adil%20Resume%20-%20PG.pdf)]
+- 📄 Know about my experiences [[https://github.com/adilshaikh19/Resume/blob/main/Adil-Resume.pdf](https://github.com/adilshaikh19/Resume/blob/main/Adil%20Resume%20-%20PG.pdf)]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
