@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at [https://adilshaikh-portfolio.netlify.app/](https://adilshaikh-portfolio.netlify.app/)
 
-- 💬 Ask me about **Machine Learning, Data Analysis, Javascript**
+- 💬 Ask me about **Web Development, Machine Learning, Data Analysis**
 
 - 📫 How to reach me **adilsk0219@gmail.com**
 
