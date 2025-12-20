@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Adil Shaikh</h1>
 <h3 align="center">A passionate Developer</h3>
 
-- 👨‍💻 All of my projects are available at [https://adilshaikh-portfolio.netlify.app/](https://adilshaikh.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://adilshaikh.netlify.app/](https://adilshaikh.netlify.app/)
 
 - 💬 Ask me about **Web Development, Machine Learning, Data Analysis**
 
