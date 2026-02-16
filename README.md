@@ -1,99 +1,85 @@
-<h1 align="center">Hey, I'm Adil Shaikh 👋</h1>
-<p align="center">
-  Full Stack Developer building AI-powered platforms, scalable backends, and real-world products.
-</p>
+# Hi there, I'm Adil Shaikh
 
-<p align="center">
-  <a href="https://adilshaikh.netlify.app/">Portfolio</a> •
-  <a href="https://github.com/adilshaikh19">GitHub</a> •
-  <a href="https://www.linkedin.com/in/adil-shaikh19">LinkedIn</a> •
-  <a href="mailto:adilsk0219@gmail.com">Email</a>
-</p>
+Full Stack Developer building AI-powered systems, scalable SaaS platforms, and production-grade backend infrastructure.
+
+Currently working on AI-driven platforms, fintech systems, healthcare software, and automation tools.
 
 ---
 
-## 🚀 What I Do
+## About
 
-I build production-ready applications across AI, fintech, healthcare, CRM systems, and automation platforms.
+I'm a Software Developer focused on building real-world applications that ship.
 
-Currently working as a **Software Developer**, shipping real-world products using:
+My work spans:
+- LLM-powered systems (RAG architectures, OpenAI integrations)
+- International payments & fintech flows
+- Multi-tenant healthcare platforms
+- CRM & workflow automation systems
+- Full-stack SaaS products
 
-- React.js, Next.js
-- Node.js, Ruby on Rails
-- MongoDB, PostgreSQL, Redis
-- OpenAI API, RAG systems
-- Docker, GCP, Vercel
-
----
-
-## 🧠 Highlight Work
-
-### 🤖 AI & LLM Systems
-- Built a **LLM-powered app builder** that generates applications from natural language.
-- Designed a **dual-agent RAG chat system** with contextual memory.
-- Integrated OpenAI for AI summaries, workflows, and smart automation.
-
-### 💳 Fintech & Payments
-- Worked on international payments platform with currency exchange, wallet management, encryption, and settlement flows.
-- Built end-to-end beneficiary handling and real-time exchange rate features.
-
-### 🏥 Healthcare Platforms
-- Developed telehealth system with:
-  - AI-generated summaries
-  - Google Meet scheduling
-  - E-prescriptions (DoseSpot)
-  - Claims & authorization integrations
-  - Secure patient record management
-
-### 📈 CRM & Automation
-- Built full-scale CRM with:
-  - Role-based access
-  - Lead tracking
-  - WhatsApp automation
-  - Ads integrations
-  - Analytics dashboards
-- Created 10+ automation blocks integrating Twilio, Google Sheets, AWS.
+I care about performance, clean architecture, and building systems that actually scale.
 
 ---
 
-## 🛠 Tech Stack
+## Current Focus
+
+- AI application builders
+- Retrieval-Augmented Generation systems
+- Secure payment integrations
+- Workflow automation engines
+- Production-ready SaaS architecture
+
+---
+
+## Selected Work
+
+### LLM App Builder
+Platform that generates full applications from natural language input.  
+Worked across React, Node.js, and Rails to improve performance and reliability.
+
+### AI RAG Chat Agent
+Dual-agent architecture with contextual memory across conversations and documents.
+
+### International Payments Platform
+Wallets, currency exchange, settlement flows, beneficiary handling, encryption, real-time rates.
+
+### CRM & Automation Platform
+Role-based access, WhatsApp automation, Ads integration, analytics dashboards, custom automation blocks.
+
+### Clinic ERP (Personal Project)
+Multi-tenant healthcare management platform with strict data isolation and secure authentication.
+
+### Volt CRM (Personal Project)
+CRM for solar businesses with workflow automation, project tracking, and activity logging.
+
+---
+
+## Tech Stack
 
 **Languages**  
-JavaScript • TypeScript • Python • Ruby
+JavaScript · TypeScript · Python · Ruby  
 
 **Frontend**  
-React.js • Next.js • Tailwind CSS
+React.js · Next.js · Tailwind CSS  
 
 **Backend**  
-Node.js • Express.js • Ruby on Rails • REST APIs • JWT
+Node.js · Express.js · Ruby on Rails · REST APIs · JWT  
 
 **Databases**  
-MongoDB • PostgreSQL • Redis
+MongoDB · PostgreSQL · Redis  
 
-**Cloud & Tools**  
-Docker • GCP • Vercel • Git
-
----
-
-## 📦 Featured Projects
-
-### 🔆 Volt CRM  
-CRM for solar businesses with workflow automation, project tracking, and role-based access.
-
-### 🏥 Clinic ERP  
-Multi-tenant healthcare management system with strict data isolation and secure JWT authentication.
+**Cloud & DevOps**  
+Docker · GCP · Vercel · Git  
 
 ---
 
-## 🎓 Education
+## Links
 
-- Master of Computer Applications  
-- Bachelor of Computer Applications  
+Portfolio: https://adilshaikh.netlify.app/  
+GitHub: https://github.com/adilshaikh19  
+LinkedIn: https://www.linkedin.com/in/adil-shaikh19  
+Email: adilsk0219@gmail.com  
 
 ---
 
-## 📬 Let's Connect
-
-If you're building something interesting in AI, SaaS, fintech, or automation — let's talk.
-
-📧 adilsk0219@gmail.com
+If you're building something serious in AI, SaaS, fintech, or automation — I'm always open to interesting conversations.
